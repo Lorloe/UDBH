@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.appbanhang"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="30" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.AppBanHang" >
+        <activity android:name="com.example.appbanhang.WellComeApp" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.appbanhang.MainActivity" />
+        <activity android:name="com.example.appbanhang.FormDNDK" />
+        <activity android:name="com.example.appbanhang.SeachView" />
+        <activity android:name="com.example.appbanhang.SanPhamPage" />
+        <activity android:name="com.example.appbanhang.chiTietSanPham" />
+        <activity android:name="com.example.appbanhang.FormTTCN" />
+        <activity android:name="com.example.appbanhang.LSTC" />
+        <activity android:name="com.example.appbanhang.QLND" />
+        <activity android:name="com.example.appbanhang.chiTietUser" />
+        <activity android:name="com.example.appbanhang.donMua" />
+        <activity android:name="com.example.appbanhang.QLDH" />
+        <activity android:name="com.example.appbanhang.CTHoaDon" />
+        <activity android:name="com.example.appbanhang.activity_capnhat" />
+        <activity android:name="com.example.appbanhang.activity_capnhatsanpham" />
+        <activity android:name="com.example.appbanhang.Activity_ThemSP" />
+        <activity android:name="com.example.appbanhang.activity_capnhatthuonghieu" />
+        <activity android:name="com.example.appbanhang.CTHoaDon_admin" />
+        <activity android:name="com.example.appbanhang.ThongKe" />
+        <activity android:name="com.example.appbanhang.TTLH" />
+        <activity android:name="com.example.appbanhang.Quen_MK" />
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="net.smallacademy.android.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+
+        <service
+            android:name="com.google.firebase.components.ComponentDiscoveryService"
+            android:directBootAware="true"
+            android:exported="false" >
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+        </service>
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.example.appbanhang.firebaseinitprovider"
+            android:directBootAware="true"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

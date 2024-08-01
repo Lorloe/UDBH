@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ứng dụng bán hàng</string>
+    <string name="title_home">Trang Chủ</string>
+    <string name="title_favorite">Yêu Thích</string>
+    <string name="title_me">Tôi</string>
+    <string name="title_dangnhap">Đăng Nhập</string>
+    <string name="title_dangky">Đăng Ký</string>
+    <string name="quen_mk"><u>Quên mật khẩu</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/bg_aliceblue_corner_16"
+    android:layout_margin="16dp"
+    android:orientation="vertical"
+    tools:ignore="MissingDefaultResource">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:background="@drawable/bg_aqua_corner_16_top_left_top_right"
+        android:gravity="center"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Vui lòng nhập lí do hủy"
+            android:textColor="@color/black"
+            android:gravity="center"
+            android:textSize="16sp"
+            android:layout_marginBottom="10dp"
+            />
+        <RadioGroup
+            android:id="@+id/radioGroup"
+            android:checkedButton="@+id/radio_button_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <RadioButton
+                android:id="@+id/radio_button_1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Đặt nhầm sản phẩm"/>
+            <RadioButton
+                android:id="@+id/radio_button_2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Đã mua tại quầy"/>
+            <RadioButton
+                android:id="@+id/radio_button_3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Không muốn mua nữa"/>
+            <RadioButton
+                android:id="@+id/radio_button_4"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Không chờ giao hàng được"/>
+            <RadioButton
+                android:id="@+id/radio_button_5"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Lý do khác"/>
+        </RadioGroup>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="16dp"
+    android:orientation="horizontal">
+    <Button
+        android:id="@+id/btnHuy"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="14sp"
+        android:layout_marginEnd="10dp"
+        android:background="@drawable/bg_silver_corner_10"
+        app:backgroundTint="@null"
+        android:textColor="@color/black"
+        android:alpha="0.4"
+        android:textAllCaps="false"
+        android:text="Hủy"/>
+    <Button
+        android:id="@+id/btnXacNhan"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="14sp"
+       android:background="@drawable/bg_aqua_corner_10"
+        app:backgroundTint="@null"
+        android:textColor="@color/black"
+        android:textStyle="normal"
+        android:textAllCaps="false"
+        android:text="Xác nhận"/>
+</LinearLayout>
+    </LinearLayout>
+</LinearLayout>

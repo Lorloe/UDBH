@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/drawable/back_icon.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/drawable/bg_aliceblue_corner_16.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/drawable/bg_aqua_corner_10.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/drawable/bg_aqua_corner_16_top_left_top_right.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/drawable/bg_silver_corner_10.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/drawable/bg_white_corner_10_border_gray.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/drawable/buttonshape.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/drawable/circle.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/drawable/smallcircle.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/drawable/smallcircle2.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/activity_capnhapthuonghieu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/activity_capnhatsanpham.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/activity_chitietcapnhat.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/activity_chitietthuonghieu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/activity_themsanpham.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/activity_themthuonghieu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/admin_qldh.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/thongtinlienhe.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/user.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/useritem.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/Desktop/UDBH-master/app/src/main/res/layout/wellcomeapp.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

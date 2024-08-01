@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/aqua"
+        android:id="@+id/top">
+        <ImageButton
+            android:id="@+id/imgb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:background="@color/aqua"
+            android:src="@drawable/back_icon" />
+        <TextView
+            android:id="@+id/txtSearch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="0dp"
+            android:textColor="@color/black"
+            android:layout_toRightOf="@+id/imgb"
+            android:text="Quản lí đơn hàng"
+            android:textSize="20dp"/>
+    </RelativeLayout>
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tablayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/aqua"
+        app:tabIndicatorColor="@color/black"
+        app:tabGravity="fill"
+        android:layout_gravity="center_horizontal"
+        app:tabMode="scrollable"
+        app:tabTextColor="@color/black">
+    </com.google.android.material.tabs.TabLayout>
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/viewpaper"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/aliceblue"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+</LinearLayout>

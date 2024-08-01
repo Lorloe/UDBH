@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/aliceblue"
+    >
+<FrameLayout
+    android:layout_width="match_parent"
+    android:background="@color/aliceblue"
+    android:id="@+id/framedanggiao"
+    android:layout_height="match_parent">
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/listDangGiao"
+        android:background="@color/aliceblue"
+        />
+</FrameLayout>
+    <ImageView
+        android:layout_gravity="center"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:id="@+id/image_DHT"
+        android:visibility="gone"
+        android:background="@drawable/menu"/>
+    <TextView
+        android:id="@+id/txtDonHangTrong"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image_DHT"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:visibility="gone"
+        android:text="Đơn hàng trống!!!"
+        android:textStyle="italic|bold"
+        />
+</RelativeLayout>

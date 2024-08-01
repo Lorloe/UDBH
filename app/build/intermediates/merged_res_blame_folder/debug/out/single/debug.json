@@ -1,0 +1,522 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_home.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragmentdanggiao.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\fragmentdanggiao.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_sanpham.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\item_sanpham.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_view.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\custom_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_aqua_corner_16_top_left_top_right.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\bg_aqua_corner_16_top_left_top_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_dang_nhap.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\fragment_dang_nhap.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_admin_qldh.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\admin_qldh.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_quenmk.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\layout_quenmk.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_white_corner_10_border_gray.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\bg_white_corner_10_border_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_admindanggiao.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\fragment_admindanggiao.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_lichsutruycap.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\lichsutruycap.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_favorite_border_icon.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\favorite_border_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_matkhaumoi.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\layout_matkhaumoi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_itemlstc.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\itemlstc.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_wellcomeapp.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\wellcomeapp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_cthoadon_admin.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\cthoadon_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_donmua.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable-v24\\donmua.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragmentchuacodonmua.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\fragmentchuacodonmua.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_capnhatthuonghieu.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\item_capnhatthuonghieu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bell.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\bell.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chitietthuonghieu.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\activity_chitietthuonghieu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_itemdonhang.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\itemdonhang.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragmentdadangnhap.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\fragmentdadangnhap.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttonshape.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\buttonshape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_dangnhapvadangky.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\dangnhapvadangky.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_itemdonmua.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\itemdonmua.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_person_icon.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\person_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smallcircle.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\smallcircle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_dialog_huydh_admin.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\layout_dialog_huydh_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_chitietsanpham.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\chitietsanpham.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_giohang.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\giohang.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_icon.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\home_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_support.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable-v24\\support.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_giohangtinhtien.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\giohangtinhtien.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_giohangthongtin.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\giohangthongtin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_placeholder.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chitietcapnhat.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\activity_chitietcapnhat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_truck.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\truck.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_capnhatsanpham.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\activity_capnhatsanpham.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_recycler_qldh.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\recycler_qldh.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shadow_shape.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\shadow_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_smile.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable-v24\\smile.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_icon_android.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable-v24\\icon_android.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_donmua.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\donmua.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle2.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\circle2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_adminchoxacnhan.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\fragment_adminchoxacnhan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_chitietdonhang.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\chitietdonhang.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_themthuonghieu.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\activity_themthuonghieu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_dialog_huydh.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\layout_dialog_huydh.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_admindahuy.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\fragment_admindahuy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_wallet_icon.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable-v24\\wallet_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_navigation_menu.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\menu\\bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragmentchuadangnhap.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\fragmentchuadangnhap.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_me.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\me.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_chitietdonhang.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\item_chitietdonhang.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smallcircle2.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\smallcircle2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_next.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_donmua.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\donmua.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_search.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\item_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back_icon.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\back_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_thongke.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\thongke.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_searchview.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\searchview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_useritem.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\useritem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_giff.gif.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\giff.gif"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_admindagiao.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\fragment_admindagiao.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragmentlistchoxacnhan.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\fragmentlistchoxacnhan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragmentdahuy.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\fragmentdahuy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_bar_drawable.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\search_bar_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_info_app.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable-v24\\info_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_image.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable-v24\\image.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_dang_ky.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\fragment_dang_ky.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_user.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_noconnection.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\noconnection.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_giohang.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\item_giohang.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_formttcn.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\formttcn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_qlnd.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\qlnd.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_info_contact.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable-v24\\info_contact.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_check_icon.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable-v24\\check_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_silver_corner_10.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\bg_silver_corner_10.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_item.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\row_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_thuonghieu.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\fragment_thuonghieu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_qldh.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\qldh.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_danhsachyeuthichtrong.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\danhsachyeuthichtrong.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_capnhapthuonghieu.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\activity_capnhapthuonghieu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_sanpham.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\fragment_sanpham.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragmentchoxacnhan.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\fragmentchoxacnhan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragmentdagiao.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\fragmentdagiao.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_themsanpham.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\activity_themsanpham.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_user.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable-v24\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_giohang.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable-v24\\giohang.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_openmail.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\openmail.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mail.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_favorite_icon.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\favorite_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_listfavorite.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\listfavorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_sanpham.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\sanpham.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_edittext.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\custom_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_favorite.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_show_password.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable-v24\\show_password.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_contact.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\contact.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_aliceblue_corner_16.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\bg_aliceblue_corner_16.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_capnhatsanpham.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\item_capnhatsanpham.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_thongtinlienhe.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\thongtinlienhe.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_leftarrow.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\leftarrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragmentchuacodonhang.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\fragmentchuacodonhang.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_hide_password.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable-v24\\hide_password.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_tiendogiaohang.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\tiendogiaohang.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_aqua_corner_10.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable\\bg_aqua_corner_10.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_search_icon.png.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\drawable-v24\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragmentadmin.xml.flat",
+        "source": "C:\\Users\\Admin\\Desktop\\UDBH-master\\app\\src\\main\\res\\layout\\fragmentadmin.xml"
+    }
+]

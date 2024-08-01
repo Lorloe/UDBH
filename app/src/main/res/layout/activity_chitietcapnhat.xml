@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_height="match_parent"
+     android:layout_width="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <ImageButton
+            android:id="@+id/imgBack"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/aqua"
+            android:src="@drawable/back_icon" />
+        <ImageButton
+            android:id="@+id/imgcamera"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_alignParentEnd="true"
+            android:background="@color/white"
+            android:src="@drawable/camera" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:layout_marginBottom="20dp"
+            android:id="@+id/imvhinhSP"
+            android:src="@drawable/image"
+            android:layout_below="@+id/imgcamera"
+            android:adjustViewBounds="true"
+            android:layout_centerHorizontal="true"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="10dp"
+            android:text="Vui lòng nhập đầy đủ thông tin sản phẩm cần thêm:"
+            android:padding="10dp"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:id="@+id/thongbao"
+            android:layout_below="@+id/imvhinhSP"
+            />
+        <EditText
+            android:id="@+id/edttenSP"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="10dp"
+            android:hint="Nhập tên sản phẩm"
+            android:layout_below="@+id/thongbao"
+            />
+        <EditText
+            android:id="@+id/edtgiaSP"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="10dp"
+            android:hint="Nhập giá sản phẩm"
+            android:layout_below="@+id/edttenSP"
+            />
+        <EditText
+            android:id="@+id/edtmotaSP"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="10dp"
+            android:hint="Nhập mô tả sản phẩm"
+            android:layout_below="@+id/edtgiaSP"
+            />
+        <EditText
+            android:id="@+id/edtmathuonghieu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="10dp"
+            android:hint="Nhập mã thương hiệu"
+            android:layout_below="@+id/edtmotaSP"
+            />
+        <EditText
+            android:id="@+id/edtsoluongkho"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="10dp"
+            android:hint="Nhập số lượng sản phẩm trong kho"
+            android:layout_below="@+id/edtmathuonghieu"
+            />
+        <EditText
+            android:id="@+id/edtgiaGoc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="10dp"
+            android:hint="Nhập giá gốc sản phẩm"
+            android:layout_below="@+id/edtsoluongkho"
+            />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/edtgiaGoc"
+            >
+            <Button
+                android:layout_width="130dp"
+                android:layout_height="70dp"
+                android:backgroundTint="@color/aqua"
+                android:padding="15dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="20dp"
+                android:id="@+id/btncapnhatSP"
+                android:text="Cập nhật"
+                android:textColor="@color/black"
+                />
+            <Button
+                android:layout_width="130dp"
+                android:layout_height="70dp"
+                android:layout_toRightOf="@+id/btncapnhatSP"
+                android:padding="15dp"
+                android:text="Xóa"
+                android:backgroundTint="@color/aqua"
+                android:textColor="@color/black"
+                android:id="@+id/btnxoaSP"
+                android:layout_margin="20dp"/>
+        </RelativeLayout>
+
+    </RelativeLayout>
+</ScrollView>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/rlItemHD"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/image_hinhdonhang"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/bell"/>
+
+    <TextView
+        android:id="@+id/txtmadonhang"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="30dp"
+        android:layout_toRightOf="@+id/image_hinhdonhang"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:textColor="@color/black"
+        android:text="Mã đơn hàng"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image_hinhdonhang"
+        android:id="@+id/txttongtiendonhang"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="5dp"
+        android:text="Tổng tiền"
+        android:layout_marginRight="5dp"
+        android:textColor="#ff0000"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image_hinhdonhang"
+        android:id="@+id/txtngaydh"
+        android:layout_marginTop="5dp"
+        android:text="Ngày đặt hàng"
+        android:layout_marginLeft="10dp"
+        android:textColor="@color/black"
+        />
+    <View
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/black"
+        android:layout_below="@+id/txtngaydk"
+        />
+</RelativeLayout>

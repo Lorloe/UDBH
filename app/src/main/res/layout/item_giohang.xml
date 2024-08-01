@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+    <ImageView
+        android:id="@+id/image_hinhgiohang"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"/>
+
+    <TextView
+        android:id="@+id/txttengiohang"
+        android:layout_marginLeft="10dp"
+        android:layout_below="@+id/image_hinhgiohang"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:textColor="@color/black"
+        android:text="Tên Sản Phẩm"/>
+
+    <TextView
+        android:id="@+id/txtgiagiohang"
+        android:layout_below="@+id/txttengiohang"
+        android:layout_marginLeft="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:textColor="@color/black"
+        android:text="Giá Sản Phẩm"/>
+
+    <Button
+        android:id="@+id/btncong"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_below="@+id/txtgiagiohang"
+        android:layout_marginLeft="10dp"
+        android:backgroundTint="@color/aqua"
+        android:textColor="@color/black"
+        android:padding="0dp"
+        android:text="+" />
+
+    <Button
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/btntru"
+        android:layout_below="@+id/txtgiagiohang"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@+id/btncong"
+        android:backgroundTint="@color/aqua"
+        android:textColor="@color/black"
+        android:padding="0dp"
+        android:text="-"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtsoluong"
+        android:layout_toRightOf="@+id/btntru"
+        android:layout_below="@+id/txtgiagiohang"
+        android:layout_margin="10dp"
+        android:textColor="@color/black"
+        android:text="số lượng"
+        />
+
+</RelativeLayout>
